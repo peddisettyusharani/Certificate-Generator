@@ -1,0 +1,4 @@
+Certificate ID,Participant Name,Email,Course/Event Name,Organization Name,Date,Duration,Grade,Instructor Name,Remarks (optional)
+CERT2026001,Rahul Sharma,rahul.sharma@example.com,Python Full Stack Development,Brainovision Solutions,2026-07-15,30 Days,A+,Dr. Anil Kumar,Excellent Performance
+CERT2026002,Priya Reddy,priya.reddy@example.com,Python Full Stack Development,Brainovision Solutions,2026-07-15,30 Days,A,Dr. Anil Kumar,Very Good
+CERT2026003,Arjun Patel,arjun.patel@example.com,Python Full Stack Development,Brainovision Solutions,2026-07-15,30 Days,B+,Dr. Anil Kumar,
